@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cryptozi/static/css/main.e852bcd3.chunk.css",
+    "main.js": "/cryptozi/static/js/main.f8bbcfc6.chunk.js",
+    "main.js.map": "/cryptozi/static/js/main.f8bbcfc6.chunk.js.map",
+    "runtime-main.js": "/cryptozi/static/js/runtime-main.d7485905.js",
+    "runtime-main.js.map": "/cryptozi/static/js/runtime-main.d7485905.js.map",
+    "static/js/2.a1990af8.chunk.js": "/cryptozi/static/js/2.a1990af8.chunk.js",
+    "static/js/2.a1990af8.chunk.js.map": "/cryptozi/static/js/2.a1990af8.chunk.js.map",
+    "index.html": "/cryptozi/index.html",
+    "static/css/main.e852bcd3.chunk.css.map": "/cryptozi/static/css/main.e852bcd3.chunk.css.map",
+    "static/js/2.a1990af8.chunk.js.LICENSE.txt": "/cryptozi/static/js/2.a1990af8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7485905.js",
+    "static/js/2.a1990af8.chunk.js",
+    "static/css/main.e852bcd3.chunk.css",
+    "static/js/main.f8bbcfc6.chunk.js"
+  ]
+}
