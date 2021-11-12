@@ -165,7 +165,7 @@ const App = () => {
         <div className="header-container">
           <p className="header gradient-text">CryptoZi</p>
           <p className="sub-text">
-            Chinese characters, also called Zi, are the oldest continuously used system of writing in the world.
+            Hi, Chinese characters, also called Zi, are the oldest continuously used system of writing in the world.
             <br /><br /> Each CryptoZi is manually created, unique and stored on IPFS permanently. 
           </p>
         </div>
